@@ -1,0 +1,28 @@
+{
+  "row_counts": {
+    "locations": 6178,
+    "customer_accounts": 9782,
+    "customers": 10000,
+    "sellers": 890,
+    "products": 5253,
+    "orders": 10000,
+    "order_items": 11192
+  },
+  "duplicate_violations": {
+    "orders": 0,
+    "order_items": 0
+  },
+  "orphan_violations": {
+    "orders_to_customers": 0,
+    "items_to_orders": 0,
+    "items_to_products": 0,
+    "items_to_sellers": 0
+  },
+  "measure_fingerprint": {
+    "item_rows": 11192,
+    "sum_price": "1420857.13",
+    "sum_freight": "216858.65",
+    "negative_amounts": 0
+  },
+  "temporal_anomalies": 0
+}
